@@ -28,10 +28,10 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Microsoft (2/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (5/15)</summary>
   
 Sr No. | Problems                                                                                     | Link                                                                                                                                     | Status
-----|----------------------------s-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
+----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Overlap Circle and Rectangle](./Microsoft/_001_overlapCircleAndRectangle.cpp)                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/circle-and-rectangle-overlapping/)                              | ✅
 2   | [Who is the Winner](./Microsoft/_002_WhoIsTheWInner.cpp)                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                            | ✅|
 3   | [Envelopes and Dolls](./Microsoft/_003_EnvelopesAndDolls.cpp/)   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/russian-doll-envelopes/)    |✅ |
