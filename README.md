@@ -28,7 +28,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Microsoft (8/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (10/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :----- |
