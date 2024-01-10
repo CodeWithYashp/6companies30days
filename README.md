@@ -28,7 +28,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Microsoft (10/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (13/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -43,9 +43,9 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 9      | [Repeated Dna sequences](./Microsoft/_009_RepeatedDnaSequences.cpp/)                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/repeated-dna-sequences/)                                    | ✅     |
 | 10     | [City With the Smallest Number of Threshold Distance](./Microsoft/_010_CitySmallestThreshold.cpp/)     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)                                                                                   |  ✅    |
 | 11     | [Count Number of Incremovable Subarrays I](./Microsoft/_011_CountNumberOfIncremovableSubarrays.cpp/)   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/)              |  ✅    |
-| 12     | [Max Product of Length Of Two Palindromic Sequences](./Microsoft/_012_MaxProductPalindrome.cpp/)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) | |
-| 13     | [Wiggle Sort](./Microsoft/_013_WiggleSort.cpp/)                                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/wiggle-sort-ii)                                             |      |
-| 14     | [Shopping Offers](./Microsoft/_014_ShoppingOffers.cpp/)                                                | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/shopping-offers/)                                           |      |
+| 12     | [Max Product of Length Of Two Palindromic Sequences](./Microsoft/_012_MaxProductPalindrome.cpp/)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) | ✅  |
+| 13     | [Wiggle Sort](./Microsoft/_013_WiggleSort.cpp/)                                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/wiggle-sort-ii)                                             |   ✅   |
+| 14     | [Shopping Offers](./Microsoft/_014_ShoppingOffers.cpp/)                                                | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/shopping-offers/)                                           |   ✅   |
 | 15     | [Minimum Cost to Convert String I](./Microsoft/_014_MinimumCostToStringI.cpp/)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)                          |      |
 
 </details>
