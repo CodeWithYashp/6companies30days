@@ -28,7 +28,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Microsoft (13/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -37,7 +37,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 3      | [Envelopes and Dolls](./Microsoft/_003_EnvelopesAndDolls.cpp/)                                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/russian-doll-envelopes/)                                    | ✅     |
 | 4      | [Image Smoother](./Microsoft/_004_ImageSmoother.cpp/)                                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/image-smoother/)                                            | ✅     |
 | 5      | [Minimum Moves to equal Array Elements](./Microsoft/_005_MinimumMoves.cpp/)                                                                                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)                  | ✅     |
-| 6      | [Random Point in Non - Overlapping Rectangles](./Microsoft/_006_RandomPoint.cpp/)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)                |      |
+| 6      | [Random Point in Non - Overlapping Rectangles](./Microsoft/_006_RandomPoint.cpp/)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)                |  ✅    |
 | 7      | [Bulls and Cows](./Microsoft/_007_BullsAndCows.cpp/)                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/bulls-and-cows/)                                            | ✅     |
 | 8      | [Counting nice Subarrays](./Microsoft/_008_CountingNiceSubarrays.cpp/)                                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-number-of-nice-subarrays/)                            | ✅     |
 | 9      | [Repeated Dna sequences](./Microsoft/_009_RepeatedDnaSequences.cpp/)                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/repeated-dna-sequences/)                                    | ✅     |
@@ -46,6 +46,15 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 12     | [Max Product of Length Of Two Palindromic Sequences](./Microsoft/_012_MaxProductPalindrome.cpp/)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) | ✅  |
 | 13     | [Wiggle Sort](./Microsoft/_013_WiggleSort.cpp/)                                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/wiggle-sort-ii)                                             |   ✅   |
 | 14     | [Shopping Offers](./Microsoft/_014_ShoppingOffers.cpp/)                                                | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/shopping-offers/)                                           |   ✅   |
-| 15     | [Minimum Cost to Convert String I](./Microsoft/_014_MinimumCostToStringI.cpp/)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)                          |      |
+| 15     | [Minimum Cost to Convert String I](./Microsoft/_015_MinimumCostToStringI.cpp/)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)                          |   ✅   |
+
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
+  
+| Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
+| :----- | :----------------------------------------------------------------------------------------------------- |
+| 1      | [Largest Divisible Subset](./Walmart/_001_LargestDivisibleSubset.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/largest-divisible-subset/)                                       | ✅     |
 
 </details>
