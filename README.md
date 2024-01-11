@@ -54,7 +54,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 <summary style="font-size: 1.2em">Walmart (1/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
-| :----- | :----------------------------------------------------------------------------------------------------- |
+| :----- | :----------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | 1      | [Largest Divisible Subset](./Walmart/_001_LargestDivisibleSubset.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/largest-divisible-subset/)                                       | ✅     |
 
 </details>
