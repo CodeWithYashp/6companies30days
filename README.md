@@ -51,13 +51,16 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Walmart (4/15)</summary>
+<summary style="font-size: 1.2em">Walmart (7/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | 1      | [Largest Divisible Subset](./Walmart/_001_LargestDivisibleSubset.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/largest-divisible-subset/)                                        | ✅     |
 | 2      | [Find Subsequence of Length K With the Largest Sum](./Walmart/_002_SubsequenceOfLengthK.cpp)  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)               | ✅     |
 | 3      | [Amount of time for the Binary Tree to be Infected](./Walmart/_003_InfectedBinaryTree.cpp)    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                   | ✅     |
-| 4      | [K-diff Pairs in an Array](./Walmart/_004_KDiffPairs.cpp)                                     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)                            | ✅     |
+| 4      | [K-diff Pairs in an Array](./Walmart/_004_KDiffPairs.cpp)                                     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                                        | ✅     |
+| 5      | [Count the Number of Square-Free Subsets](./Walmart/_005_CountNoOfSquareFreeSubsets.cpp)      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)                         | ✅     |
+| 6      | [Rotate Function](./Walmart/_006_MaxRotateFunction.cpp)                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/rotate-function/description/)                                     | ✅     |
+| 7      | [Get Equal Substrings Within Budget](./Walmart/_007_EqualStringsWithinBudget.cpp)             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/get-equal-substrings-within-budget/)                              | ✅     |
 
 </details>
