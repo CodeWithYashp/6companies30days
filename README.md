@@ -51,7 +51,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Walmart (7/15)</summary>
+<summary style="font-size: 1.2em">Walmart (8/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -62,5 +62,6 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 5      | [Count the Number of Square-Free Subsets](./Walmart/_005_CountNoOfSquareFreeSubsets.cpp)      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)                         | ✅     |
 | 6      | [Rotate Function](./Walmart/_006_MaxRotateFunction.cpp)                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/rotate-function/description/)                                     | ✅     |
 | 7      | [Get Equal Substrings Within Budget](./Walmart/_007_EqualStringsWithinBudget.cpp)             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/get-equal-substrings-within-budget/)                              | ✅     |
+| 8      | [Friends of Appropriate Ages](./Walmart/_008_FriendsAppropriateAges.cpp)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/friends-of-appropriate-ages/)                                     | ✅     |
 
 </details>
