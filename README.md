@@ -63,5 +63,8 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 6      | [Rotate Function](./Walmart/_006_MaxRotateFunction.cpp)                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/rotate-function/description/)                                     | ✅     |
 | 7      | [Get Equal Substrings Within Budget](./Walmart/_007_EqualStringsWithinBudget.cpp)             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/get-equal-substrings-within-budget/)                              | ✅     |
 | 8      | [Friends of Appropriate Ages](./Walmart/_008_FriendsAppropriateAges.cpp)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/friends-of-appropriate-ages/)                                     | ✅     |
+| 9      | [Maximum Length of Repeated Subarray](./Walmart/_009_maxLenRepeatedSubarray.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                             | ✅     |
+| 10     | [Verify Preorder Serialization of a Binary Tree](./Walmart/_010_preOrderSerialization.cpp)    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)                  | ✅     |
+| 11     | [Top K Frequent Words](./Walmart/_011_topKFrequentWords.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/top-k-frequent-words/description/)                                | ✅     |
 
 </details>
