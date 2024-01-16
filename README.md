@@ -51,7 +51,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Walmart (11/15)</summary>
+<summary style="font-size: 1.2em">Walmart (14/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -65,6 +65,9 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 8      | [Friends of Appropriate Ages](./Walmart/_008_FriendsAppropriateAges.cpp)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/friends-of-appropriate-ages/)                                     | ✅     |
 | 9      | [Maximum Length of Repeated Subarray](./Walmart/_009_maxLenRepeatedSubarray.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                             | ✅     |
 | 10     | [Verify Preorder Serialization of a Binary Tree](./Walmart/_010_preOrderSerialization.cpp)    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)                  | ✅     |
-| 11     | [Top K Frequent Words](./Walmart/_011_topKFrequentWords.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/top-k-frequent-words/description/)                                | ✅     |
+| 11     | [Top K Frequent Words](./Walmart/_011_topKFrequentWords.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/top-k-frequent-words/)                                            | ✅     |
+| 12     | [Battleships in a Board](./Walmart/_012_battleshipsInABoard.cpp)                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/battleships-in-a-board/)                                          | ✅     |
+| 13     | [Sort Characters by frequency](./Walmart/_013_sortCharactersByFreq.cpp)                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/sort-characters-by-frequency/)                                    | ✅     |
+| 14     | [Word Break](./Walmart/_014_wordBreak.cpp)                                                    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/word-break/)                                                      | ✅     |
 
 </details>
