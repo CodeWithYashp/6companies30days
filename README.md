@@ -51,7 +51,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Walmart (14/15)</summary>
+<summary style="font-size: 1.2em">Walmart (15/15)</summary>
   
 | Sr No. | Problems                                                                                               | Link                                                                                                                              | Status |
 | :----- | :----------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -69,5 +69,16 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 12     | [Battleships in a Board](./Walmart/_012_battleshipsInABoard.cpp)                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/battleships-in-a-board/)                                          | ✅     |
 | 13     | [Sort Characters by frequency](./Walmart/_013_sortCharactersByFreq.cpp)                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/sort-characters-by-frequency/)                                    | ✅     |
 | 14     | [Word Break](./Walmart/_014_wordBreak.cpp)                                                    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/word-break/)                                                      | ✅     |
+| 15     | [Extra Characters in a String](./Walmart/_015_extraCharInString.cpp)                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/extra-characters-in-a-string/)                                    | ✅     |
+
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Adobe (2/15)</summary>
+
+| Sr No. | Problems                                                                       | Link                                                                                                                  | Status |
+| :----- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :----- |
+| 1      | [Trim a Binary Search Tree](./Adobe/_001_trimABST.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/trim-a-binary-search-tree/)                    | ✅     |
+| 2      | [Construct the longest New String](./Adobe/_002_constructLongestNewString.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/construct-the-longest-new-string/description/) | ✅     |
 
 </details>
