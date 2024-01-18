@@ -74,14 +74,14 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Adobe (2/15)</summary>
+<summary style="font-size: 1.2em">Adobe (4/15)</summary>
 
 | Sr No. | Problems                                                                       | Link                                                                                                                  | Status |
 | :----- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :----- |
 | 1      | [Trim a Binary Search Tree](./Adobe/_001_trimABST.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/trim-a-binary-search-tree/)                    | ✅     |
 | 2      | [Construct the longest New String](./Adobe/_002_constructLongestNewString.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/construct-the-longest-new-string/description/) | ✅     |
 | 3      | [Short Encoding of Words](./Adobe/_003_shortWordsEncoding.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/short-encoding-of-words/)                      | ✅     |
-| 4      | [Constrained Subsequence Sum](./Adobe/_004_constrainedSum.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/constrained-subsequence-sum/)                  | ✅     |
+| 4      | [Constrained Subsequence Sum](./Adobe/_004_constrainedSum.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/constrained-subsequence-sum/)                  |        |
 | 3      | [Special Permutations](./Adobe/_005_specialPermutations.cpp)                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                         | ✅     |
 
 </details>
