@@ -82,6 +82,9 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 2      | [Construct the longest New String](./Adobe/_002_constructLongestNewString.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/construct-the-longest-new-string/description/) | ✅     |
 | 3      | [Short Encoding of Words](./Adobe/_003_shortWordsEncoding.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/short-encoding-of-words/)                      | ✅     |
 | 4      | [Constrained Subsequence Sum](./Adobe/_004_constrainedSum.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/constrained-subsequence-sum/)                  |        |
-| 3      | [Special Permutations](./Adobe/_005_specialPermutations.cpp)                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                         | ✅     |
+| 5      | [Special Permutations](./Adobe/_005_specialPermutations.cpp)                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                         | ✅     |
+| 6      | [Matrix Cells in Distance Order](./Adobe/_006_matrixCellsInDistanceOrder.cpp)  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/matrix-cells-in-distance-order/)               | ✅     |
+| 7      | [The Skyline Problem](./Adobe/_007_skylineProblem.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                         |        |
+| 8      | [Minimum Cost of a Path With Special Roads](./Adobe/_008_specialRoads.cpp)     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)    | ✅     |
 
 </details>
