@@ -74,7 +74,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Adobe (8/15)</summary>
+<summary style="font-size: 1.2em">Adobe (10/15)</summary>
 
 | Sr No. | Problems                                                                                | Link                                                                                                                  | Status |
 | :----- | :-------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -88,5 +88,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 8      | [Minimum Cost of a Path With Special Roads](./Adobe/_008_specialRoads.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)    | ✅     |
 | 9      | [Longest Word in Dictionary through Deleting](./Adobe/_009_longestDictionaryDelete.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)  | ✅     |
 | 10     | [Find Players With Zero or One Losses](./Adobe/_010_playersWithZeroOrOneLoss.cpp)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)         | ✅     |
+| 11     | [Cinema Seat Allocation](./Adobe/_011_cinemaSeatAlloc.cpp)                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/cinema-seat-allocation/)                       | ✅     |
+| 12     | [Airplane Seat Assignment Probability](./Adobe/_012_airplaneSeatAssignment.cpp)         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/airplane-seat-assignment-probability/)         | ✅     |
 
 </details>
