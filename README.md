@@ -95,3 +95,14 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 15     | [Last moment before all Ants fall out of a plank](./Adobe/_015_lastMomentsAnts.cpp)     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | ✅     |
 
 </details>
+
+<details>
+<summary style="font-size: 1.2em">Atlassian (3/15)</summary>
+
+| Sr No. | Problems                                                                  | Link                                                                                                     | Status |
+| :----- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :----- |
+| 1      | [Assign Cookies](./atlassian/_001_AssignCookies.cpp)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/assign-cookies/)                  | ✅     |
+| 2      | [Throne Inheritance](./atlassian/_002_throneInheritance.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/throne-inheritance/)              | ✅     |
+| 3      | [Kth Largest Element in a stream](./atlassian/_003_kthLargestElement.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ✅     |
+
+</details>
