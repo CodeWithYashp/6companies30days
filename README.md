@@ -74,17 +74,17 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Adobe (12/15)</summary>
+<summary style="font-size: 1.2em">Adobe (14/15)</summary>
 
 | Sr No. | Problems                                                                                | Link                                                                                                                     | Status |
 | :----- | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
 | 1      | [Trim a Binary Search Tree](./Adobe/_001_trimABST.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/trim-a-binary-search-tree/)                       | ✅     |
 | 2      | [Construct the longest New String](./Adobe/_002_constructLongestNewString.cpp)          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/construct-the-longest-new-string/description/)    | ✅     |
 | 3      | [Short Encoding of Words](./Adobe/_003_shortWordsEncoding.cpp)                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/short-encoding-of-words/)                         | ✅     |
-| 4      | [Constrained Subsequence Sum](./Adobe/_004_constrainedSum.cpp)                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/constrained-subsequence-sum/)                     |        |
+| 4      | [Constrained Subsequence Sum](./Adobe/_004_constrainedSum.cpp)                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/constrained-subsequence-sum/)                     | ✅     |
 | 5      | [Special Permutations](./Adobe/_005_specialPermutations.cpp)                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                            | ✅     |
 | 6      | [Matrix Cells in Distance Order](./Adobe/_006_matrixCellsInDistanceOrder.cpp)           | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/matrix-cells-in-distance-order/)                  | ✅     |
-| 7      | [The Skyline Problem](./Adobe/_007_skylineProblem.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/special-permutations/)                            |        |
+| 7      | [The Skyline Problem](./Adobe/_007_skylineProblem.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-skyline-problem/)                             | ✅     |
 | 8      | [Minimum Cost of a Path With Special Roads](./Adobe/_008_specialRoads.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)       | ✅     |
 | 9      | [Longest Word in Dictionary through Deleting](./Adobe/_009_longestDictionaryDelete.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)     | ✅     |
 | 10     | [Find Players With Zero or One Losses](./Adobe/_010_playersWithZeroOrOneLoss.cpp)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)            | ✅     |
@@ -97,12 +97,13 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Atlassian (3/15)</summary>
+<summary style="font-size: 1.2em">Atlassian (4/15)</summary>
 
-| Sr No. | Problems                                                                  | Link                                                                                                     | Status |
-| :----- | :------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :----- |
-| 1      | [Assign Cookies](./atlassian/_001_AssignCookies.cpp)                      | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/assign-cookies/)                  | ✅     |
-| 2      | [Throne Inheritance](./atlassian/_002_throneInheritance.cpp)              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/throne-inheritance/)              | ✅     |
-| 3      | [Kth Largest Element in a stream](./atlassian/_003_kthLargestElement.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ✅     |
+| Sr No. | Problems                                                                     | Link                                                                                                          | Status |
+| :----- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----- |
+| 1      | [Assign Cookies](./atlassian/_001_AssignCookies.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/assign-cookies/)                       | ✅     |
+| 2      | [Throne Inheritance](./atlassian/_002_throneInheritance.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/throne-inheritance/)                   | ✅     |
+| 3      | [Kth Largest Element in a stream](./atlassian/_003_kthLargestElement.cpp)    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)      | ✅     |
+| 3      | [Maximize Area of Square Hole in Grid](./atlassian/_004_maxAreaOfSqHole.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | ✅     |
 
 </details>
