@@ -97,13 +97,16 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Atlassian (4/15)</summary>
+<summary style="font-size: 1.2em">Atlassian (5/15)</summary>
 
-| Sr No. | Problems                                                                     | Link                                                                                                          | Status |
-| :----- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ | :----- |
-| 1      | [Assign Cookies](./atlassian/_001_AssignCookies.cpp)                         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/assign-cookies/)                       | ✅     |
-| 2      | [Throne Inheritance](./atlassian/_002_throneInheritance.cpp)                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/throne-inheritance/)                   | ✅     |
-| 3      | [Kth Largest Element in a stream](./atlassian/_003_kthLargestElement.cpp)    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)      | ✅     |
-| 3      | [Maximize Area of Square Hole in Grid](./atlassian/_004_maxAreaOfSqHole.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | ✅     |
+| Sr No. | Problems                                                                              | Link                                                                                                                 | Status |
+| :----- | :------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------- | :----- |
+| 1      | [Assign Cookies](./atlassian/_001_AssignCookies.cpp)                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/assign-cookies/)                              | ✅     |
+| 2      | [Throne Inheritance](./atlassian/_002_throneInheritance.cpp)                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/throne-inheritance/)                          | ✅     |
+| 3      | [Kth Largest Element in a stream](./atlassian/_003_kthLargestElement.cpp)             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)             | ✅     |
+| 4      | [Maximize Area of Square Hole in Grid](./atlassian/_004_maxAreaOfSqHole.cpp)          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/)        | ✅     |
+| 5      | [LRU Cache](./atlassian/_005_lruCache.cpp)                                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/lru-cache/)                                   | ✅     |
+| 6      | [Count words after adding a letter](./atlassian/_006_countWordsAfterAddingLetter.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)  | ✅     |
+| 7      | [Find Beautiful Indices in the Given Array I](./atlassian/_007_beautifulIndices.cpp)  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | ✅     |
 
 </details>
