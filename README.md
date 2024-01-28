@@ -97,7 +97,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Atlassian (12/15)</summary>
+<summary style="font-size: 1.2em">Atlassian (14/15)</summary>
 
 | Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -114,5 +114,19 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 11     | [The Number of Good Subsets](./atlassian/_011_noOfGoodSubsets.cpp)                                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-number-of-good-subsets/)                                                  |        |
 | 12     | [Count Collisions on a road](./atlassian/_012_countCollisionsOnRoad.cpp)                                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-number-of-good-subsets/)                                                  | ✅     |
 | 13     | [Find the Distance Value Between Two Arrays](./atlassian/_013_distanceValueBetweenTwoArrays.cpp)                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)                                  | ✅     |
+| 14     | [Length of Longest Subarray With at Most K Frequency](./atlassian/_014_lengthOfLongestSubarray.cpp)                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)                         | ✅     |
+| 15     | [Construct the longest New String](./atlassian/_015_theLongestNewString.cpp)                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/construct-the-longest-new-string/)                                            | ✅     |
+
+</details>
+
+<details>
+<summary style="font-size: 1.2em">Google (3/15)</summary>
+
+| Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
+| :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
+| 1      | [Destroying Asteroids](./Google/_001_destroyingAsteroids.cpp)                                                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/destroying-asteroids/)                                                        | ✅     |
+| 2      | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Google/_002_ctiyWithSmallestNoOfNeighbors.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | ✅     |
+| 3      | [Integer to English Words](./Google/_003_integerToEnglishWords.cpp)                                                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/integer-to-english-words/)                                                    |        |
+| 4      | [Repeated DNA Sequences](./Google/_003_integerToEnglishWords.cpp)                                                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/repeated-dna-sequences/)                                                      | ✅     |
 
 </details>
