@@ -120,7 +120,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Google (3/15)</summary>
+<summary style="font-size: 1.2em">Google (7/15)</summary>
 
 | Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -128,5 +128,9 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 2      | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Google/_002_ctiyWithSmallestNoOfNeighbors.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | ✅     |
 | 3      | [Integer to English Words](./Google/_003_integerToEnglishWords.cpp)                                                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/integer-to-english-words/)                                                    |        |
 | 4      | [Repeated DNA Sequences](./Google/_004_repeatedDNASequences.cpp)                                                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/repeated-dna-sequences/)                                                      | ✅     |
+| 5      | [Stone Game VI](./Google/_005_stoneGame.cpp)                                                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/stone-game-vi/)                                                               | ✅     |
+| 6      | [Merge k Sorted Lists](./Google/_006_mergeKSortedLists.cpp)                                                                    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/merge-k-sorted-lists/)                                                        | ✅     |
+| 7      | [Maximum Product After K Increments](./Google/_007_maxProductAfterKIncrements.cpp)                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-product-after-k-increments/)                                          | ✅     |
+| 8      | [Russian Doll Envelopes](./Google/_004_repeatedDNASequences.cpp)                                                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/russian-doll-envelopes/)                                                      | ✅     |
 
 </details>
