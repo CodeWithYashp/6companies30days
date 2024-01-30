@@ -120,7 +120,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Google (8/15)</summary>
+<summary style="font-size: 1.2em">Google (12/15)</summary>
 
 | Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -132,6 +132,10 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 6      | [Merge k Sorted Lists](./Google/_006_mergeKSortedLists.cpp)                                                                    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/merge-k-sorted-lists/)                                                        | ✅     |
 | 7      | [Maximum Product After K Increments](./Google/_007_maxProductAfterKIncrements.cpp)                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/maximum-product-after-k-increments/)                                          | ✅     |
 | 8      | [Russian Doll Envelopes](./Google/_004_repeatedDNASequences.cpp)                                                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/russian-doll-envelopes/)                                                      | ✅     |
-| 8      | [Query Kth Smallest Trimmed Number](./Google/_009_queryKthSmallestTrimmed.cpp)                                                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)                                           | ✅     |
+| 9      | [Query Kth Smallest Trimmed Number](./Google/_009_queryKthSmallestTrimmed.cpp)                                                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)                                           | ✅     |
+| 10     | [Count Subtrees With Max Distance Between Cities](./Google/_010_countSubtrees.cpp)                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)                             | ✅     |
+| 13     | [Find in Mountain Array](./Google/_013_FindInMountainArray.cpp)                                                                | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-in-mountain-array/)                                                      | ✅     |
+| 14     | [Design Add and Search Words Data Structure](./Google/_014_designAddAndSearchWords.cpp)                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                                  | ✅     |
+| 15     | [Number of Good Leaf Nodes Pairs](./Google/_015_numberOfGoodLeaf.cpp)                                                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)                                             | ✅     |
 
 </details>
