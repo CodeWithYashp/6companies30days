@@ -74,7 +74,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Adobe (14/15)</summary>
+<summary style="font-size: 1.2em">Adobe (15/15)</summary>
 
 | Sr No. | Problems                                                                                | Link                                                                                                                     | Status |
 | :----- | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -90,14 +90,14 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 10     | [Find Players With Zero or One Losses](./Adobe/_010_playersWithZeroOrOneLoss.cpp)       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)            | ✅     |
 | 11     | [Cinema Seat Allocation](./Adobe/_011_cinemaSeatAlloc.cpp)                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/cinema-seat-allocation/)                          | ✅     |
 | 12     | [Airplane Seat Assignment Probability](./Adobe/_012_airplaneSeatAssignment.cpp)         | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/airplane-seat-assignment-probability/)            | ✅     |
-| 13     | [Erect The Fence](./Adobe/_013_erectTheFence.cpp)                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/erect-the-fence/)                                 |        |
+| 13     | [Erect The Fence](./Adobe/_013_erectTheFence.cpp)                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/erect-the-fence/)                                 | ✅     |
 | 14     | [Get Equal Substrings within Budget](./Adobe/_014_getEqualSubstrings.cpp)               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/get-equal-substrings-within-budget/)              | ✅     |
 | 15     | [Last moment before all Ants fall out of a plank](./Adobe/_015_lastMomentsAnts.cpp)     | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | ✅     |
 
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Atlassian (14/15)</summary>
+<summary style="font-size: 1.2em">Atlassian (15/15)</summary>
 
 | Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
@@ -111,7 +111,7 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 8      | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./atlassian/_008_cityWithSmallestNeighbours.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | ✅     |
 | 9      | [Minimum Non-Zero Product of the Array Elements](./atlassian/_009_minimumNonZeroArrayProduct.cpp)                              | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/)                              | ✅     |
 | 10     | [Minimum Non-Zero Product of the Array Elements](./atlassian/_010_queryKthSmallestTrimmedNumber.cpp)                           | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)                                           | ✅     |
-| 11     | [The Number of Good Subsets](./atlassian/_011_noOfGoodSubsets.cpp)                                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-number-of-good-subsets/)                                                  |        |
+| 11     | [The Number of Good Subsets](./atlassian/_011_noOfGoodSubsets.cpp)                                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-number-of-good-subsets/)                                                  | ✅     |
 | 12     | [Count Collisions on a road](./atlassian/_012_countCollisionsOnRoad.cpp)                                                       | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/the-number-of-good-subsets/)                                                  | ✅     |
 | 13     | [Find the Distance Value Between Two Arrays](./atlassian/_013_distanceValueBetweenTwoArrays.cpp)                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)                                  | ✅     |
 | 14     | [Length of Longest Subarray With at Most K Frequency](./atlassian/_014_lengthOfLongestSubarray.cpp)                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)                         | ✅     |
@@ -120,13 +120,13 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 </details>
 
 <details>
-<summary style="font-size: 1.2em">Google (12/15)</summary>
+<summary style="font-size: 1.2em">Google (15/15)</summary>
 
 | Sr No. | Problems                                                                                                                       | Link                                                                                                                                                 | Status |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
 | 1      | [Destroying Asteroids](./Google/_001_destroyingAsteroids.cpp)                                                                  | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/destroying-asteroids/)                                                        | ✅     |
 | 2      | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Google/_002_ctiyWithSmallestNoOfNeighbors.cpp) | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | ✅     |
-| 3      | [Integer to English Words](./Google/_003_integerToEnglishWords.cpp)                                                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/integer-to-english-words/)                                                    |        |
+| 3      | [Integer to English Words](./Google/_003_integerToEnglishWords.cpp)                                                            | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/integer-to-english-words/)                                                    | ✅     |
 | 4      | [Repeated DNA Sequences](./Google/_004_repeatedDNASequences.cpp)                                                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/repeated-dna-sequences/)                                                      | ✅     |
 | 5      | [Stone Game VI](./Google/_005_stoneGame.cpp)                                                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/stone-game-vi/)                                                               | ✅     |
 | 6      | [Merge k Sorted Lists](./Google/_006_mergeKSortedLists.cpp)                                                                    | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/merge-k-sorted-lists/)                                                        | ✅     |
@@ -134,6 +134,8 @@ In this repo i am uploading solutions for [6companies30dayschallenge](https://ww
 | 8      | [Russian Doll Envelopes](./Google/_004_repeatedDNASequences.cpp)                                                               | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/russian-doll-envelopes/)                                                      | ✅     |
 | 9      | [Query Kth Smallest Trimmed Number](./Google/_009_queryKthSmallestTrimmed.cpp)                                                 | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)                                           | ✅     |
 | 10     | [Count Subtrees With Max Distance Between Cities](./Google/_010_countSubtrees.cpp)                                             | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)                             | ✅     |
+| 11     | [Minimum Number of Days to Disconnect Island](./Google/_011_DaysToDisconnectIsland.cpp)                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)                                 | ✅     |
+| 12     | [Sum of Scores of Built Strings](./Google/_012_sumOfScoreOfBuiltStrings.cpp)                                                   | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/sum-of-scores-of-built-strings/)                                              | ✅     |
 | 13     | [Find in Mountain Array](./Google/_013_FindInMountainArray.cpp)                                                                | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/find-in-mountain-array/)                                                      | ✅     |
 | 14     | [Design Add and Search Words Data Structure](./Google/_014_designAddAndSearchWords.cpp)                                        | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                                  | ✅     |
 | 15     | [Number of Good Leaf Nodes Pairs](./Google/_015_numberOfGoodLeaf.cpp)                                                          | [![Problem Link](./assets/leetcode.svg)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)                                             | ✅     |
